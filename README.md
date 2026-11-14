@@ -64,7 +64,7 @@ React-based frontend:
 ```bash
 # 1. Clone and setup
 git clone https://github.com/itscryzix/StarkCoderNetworkStresser.git
-cd mikumikubeam
+cd StarkCoderNetworkStresser
 
 # 2. Install dependencies
 make prepare
