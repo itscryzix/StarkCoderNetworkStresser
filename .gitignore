@@ -1,0 +1,16 @@
+# Binaries
+bin/
+*.exe
+
+# Dependencies
+web-client/node_modules/
+web-client/dist/
+
+# Go
+go.sum
+*.log
+
+# Misc
+.DS_Store
+.env
+data/proxies.txt
