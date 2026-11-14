@@ -286,7 +286,7 @@ package yourprotocol
 
 import (
     "context"
-    core "github.com/sammwyy/mikumikubeam/internal/engine"
+    core "github.com/itscryzix/StarkCoderNetworkStresser/internal/engine"
 )
 
 type yourWorker struct{}
